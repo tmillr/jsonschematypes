@@ -1,6 +1,6 @@
 # jsconschematypes
 
-jsconschematypes is a Java library to generate Java or TypeSctript classes from
+jsconschematypes is a Java library for generating Java or TypeScript classes from
 standard JSON Schemas.
 
 An online demonstration [is here](https://tryjsonschematypes.appspot.com/#java).
